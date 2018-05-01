@@ -1,5 +1,1 @@
----
-*****Invalid meta
----
-
 # failing-repo
